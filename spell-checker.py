@@ -3,7 +3,6 @@ def spell_checker(word):
     print(f'Word "{word}" is not right.')
     print(f'Do you mean "{suggest_word(word)}"?')
 
-
 def is_correct(word):
   pass
 
